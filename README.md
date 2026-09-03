@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=30&pause=1000&width=435&lines=React+Learning+from+Programming+Hero;Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lora&size=29&pause=1000&width=435&lines=React+Learning+from+Programming+Hero;Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology)](https://git.io/typing-svg)
 <h3 align="center">A passionate wordpress developer from Bangladesh</h3>
 
 
