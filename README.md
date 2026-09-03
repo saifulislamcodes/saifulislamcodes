@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=29&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=600&lines=React+Learning+from+Programming+Hero;Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=29&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=800&height=40&lines=React+Learning+from+Programming+Hero;Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
 
 - 📫 How to reach me **01763saiful@gmail.com**
 
