@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saifulislamcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saifulislamcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saifulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifulislam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmsaifulislam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifulislam" height="30" width="40" /></a>
 <a href="https://fb.com/saifulwebdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifulwebdesigner" height="30" width="40" /></a>
 <a href="https://instagram.com/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifulislamcodes" height="30" width="40" /></a>
 <a href="https://www.behance.net/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saifulislamcodes" height="30" width="40" /></a>
