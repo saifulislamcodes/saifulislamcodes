@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=35&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=1200&height=40&lines=Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m @saifulislamcodes.
-- 🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.
-- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
-- 🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.
-- 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
+- 🖥️ I’m currently working on WordPress development.
+- 🗄️ Using Elementor Page Builder.
+- 🛠️ I’m currently learning React.
+- 💬 Ask me about Cro.
 - 🌐 Explore My Portfolio TouhidCodes and My Resume
 - 📝 I regularly write articles on LinkedIn
 - 📫 How to reach me **01763saiful@gmail.com**
