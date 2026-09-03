@@ -9,7 +9,7 @@
 - 💬 Ask me about CrocoBlock's all plugin.
 - 🌐 Explore My Portfolio SaifulIslamCodes and My Resume
 - 📝 I regularly write articles on LinkedIn
-- 📫 How to reach me **01763saiful@gmail.com**
+- 📫 How to reach me **01763saiful@gmail.com** [GitHub](01763saiful@gmail.com)
 
 <h3 align="left"> Follow Me On Socials:</h3>
 <p align="left">
