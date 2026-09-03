@@ -8,7 +8,7 @@
 - 🛠️ I’m currently learning React.
 - 💬 Ask me about CrocoBlock's all plugin.
 - 🌐 Explore My Portfolio SaifulIslamCodes and My Resume
-- 📝 I regularly write articles on LinkedIn
+- 📝 I regularly write articles on [**LinkedIn**](https://www.linkedin.com/) and [**LinkedIn**](https://www.facebook.com/saifulwebdesigner)
 - 📫 How to reach me [**E-mail**](mailto:01763saiful@gmail.com)
 
 <h3 align="left"> Follow Me On Socials:</h3>
