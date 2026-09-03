@@ -1,4 +1,4 @@
-[Bannar](https://github.com/saifulislamcodes/saifulislamcodes/blob/main/bannar.jpg)
+<img src="https://github.com/saifulislamcodes/saifulislamcodes/blob/main/bannar.jpg alt="css3" width="30" height="30"/>
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=35&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=1200&height=40&lines=Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
 
