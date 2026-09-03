@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=35&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=1200&height=40&lines=Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m [**@saifulislamcodes**](https://github.com/saifulislamcodes).
-- 🖥️ I’m currently working on WordPress development.
+- 🖥️ I’m currently working on **WordPress development**.
 - 🗄️ Using Elementor Page Builder.
 - 🛠️ I’m currently learning React.
 - 💬 Ask me about CrocoBlock's all plugin.
