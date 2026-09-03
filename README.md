@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAIFUL ISLAM</h1>
+<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">A passionate wordpress developer from Bangladesh</h3>
 
 - 📫 How to reach me **01763saiful@gmail.com**
