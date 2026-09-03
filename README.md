@@ -14,7 +14,7 @@
 <h3 align="left"> Follow Me On Socials:</h3>
 <p align="left">
   
-<a href="https://twitter.com/saifulislamcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulislamcode" height="20" width="30" /></a>
+<a href="https://twitter.com/saifulislamcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulislamcode" height="25" width="30" /></a>
 <a href="https://linkedin.com/in/dmsaifulislam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmsaifulislam32" height="20" width="30" /></a>
 <a href="https://fb.com/saifulwebdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifulwebdesigner" height="20" width="30" /></a>
 <a href="https://instagram.com/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifulislamcodes" height="20" width="30" /></a>
