@@ -6,8 +6,8 @@
 - 🖥️ I’m currently working on WordPress development.
 - 🗄️ Using Elementor Page Builder.
 - 🛠️ I’m currently learning React.
-- 💬 Ask me about Cro.
-- 🌐 Explore My Portfolio TouhidCodes and My Resume
+- 💬 Ask me about CrocoBlock's all plugin.
+- 🌐 Explore My Portfolio SaifulIslamCodes and My Resume
 - 📝 I regularly write articles on LinkedIn
 - 📫 How to reach me **01763saiful@gmail.com**
 
