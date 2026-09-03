@@ -19,7 +19,7 @@
 <a href="https://fb.com/saifulwebdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifulwebdesigner" height="20" width="30" /></a>
 <a href="https://instagram.com/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifulislamcodes" height="20" width="30" /></a>
 <a href="https://www.behance.net/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saifulislamcodes" height="20" width="30" /></a>
-<a href="https://discord.gg/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saifulislamcodes" height="25" width="25" /></a>
+<a href="https://discord.gg/saifulislamcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saifulislamcodes" height="28" width="27" /></a>
 </p>
 
 <h3 align="left">Technology Stack:</h3>
