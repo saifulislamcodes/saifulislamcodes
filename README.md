@@ -1,4 +1,4 @@
-<img src="bannar.jpg" alt="css3" width="1200px" height="300px"/>
+<img src="bannar.jpg" alt="css3" width="1200px" height="350px" />
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=35&duration=6000&pause=1000&center=true&vCenter=true&random=true&width=1200&height=40&lines=Passionate+WordPress+Developer;JavaScript+Enthusiast;+Interested+in+Technology" alt="Typing SVG" /></a>
 
@@ -13,8 +13,8 @@
 - 📫 How to reach me [**E-mail**](mailto:01763saiful@gmail.com)
 
 <h3 align="left"> Follow Me On Socials:</h3>
-<p align="left">
-  
+
+<p align="left">  
 <a href="https://twitter.com/saifulislamcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifulislamcode" height="25" width="30" /></a>
 <a href="https://linkedin.com/in/dmsaifulislam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmsaifulislam32" height="20" width="30" /></a>
 <a href="https://fb.com/saifulwebdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifulwebdesigner" height="20" width="30" /></a>
